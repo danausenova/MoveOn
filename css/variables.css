@@ -1,0 +1,13 @@
+:root {
+  --main-family: "Jost", sans-serif;
+
+  --main-color: #ffffff;
+  --secondary-color: #000000;
+  --third-color: #b0b0b0;
+  --four-color: #ababab;
+
+  --main-size: 18px;
+  --section-item-size: 20px;
+  --service-item-size: 22px;
+  --nav-size: 20x;
+}
